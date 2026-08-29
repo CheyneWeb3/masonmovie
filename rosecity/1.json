@@ -1,0 +1,75 @@
+{
+  "name": "Electric Futures #1 — Neon Megacity",
+  "description": "A sprawling neon megacity burns through the night as hovering vehicles move between dense towers, tangled infrastructure and crowded streets below. Part of Electric Futures — Sci-Fi Cityscapes, a collection exploring cities from possible and impossible futures.",
+  "image": "IMAGE_URL_HERE",
+  "attributes": [
+    {
+      "trait_type": "City Type",
+      "value": "Neon Megacity"
+    },
+    {
+      "trait_type": "City Complexity",
+      "value": "Extreme"
+    },
+    {
+      "trait_type": "Future Era",
+      "value": "Far Future"
+    },
+    {
+      "trait_type": "Sci-Fi Style",
+      "value": "Cyberpunk"
+    },
+    {
+      "trait_type": "Architecture",
+      "value": "Dense Vertical"
+    },
+    {
+      "trait_type": "Technology Level",
+      "value": "Advanced"
+    },
+    {
+      "trait_type": "Transport",
+      "value": "Hover Traffic"
+    },
+    {
+      "trait_type": "Street Level",
+      "value": "Crowded"
+    },
+    {
+      "trait_type": "Lighting",
+      "value": "Electric Neon"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "Night Haze"
+    },
+    {
+      "trait_type": "Infrastructure",
+      "value": "Hyper-Dense"
+    },
+    {
+      "trait_type": "Commercial Activity",
+      "value": "Heavy"
+    },
+    {
+      "trait_type": "Signage",
+      "value": "Neon City Signs"
+    },
+    {
+      "trait_type": "Sky Traffic",
+      "value": "Active"
+    },
+    {
+      "trait_type": "Population Density",
+      "value": "Extreme"
+    },
+    {
+      "trait_type": "Dominant Energy",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Color Mood",
+      "value": "Blue Purple Neon"
+    }
+  ]
+}

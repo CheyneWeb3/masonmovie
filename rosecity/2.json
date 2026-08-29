@@ -1,0 +1,71 @@
+{
+  "name": "Electric Futures #2 — Crimson Arcology",
+  "description": "A colossal self-contained arcology rises above a scorched crimson plain, its illuminated towers connected by suspended transit lines and atmospheric bridges. Part of Electric Futures — Sci-Fi Cityscapes, a collection exploring cities from possible and impossible futures.",
+  "image": "IMAGE_URL_HERE",
+  "attributes": [
+    {
+      "trait_type": "City Type",
+      "value": "Desert Arcology"
+    },
+    {
+      "trait_type": "City Complexity",
+      "value": "Extreme"
+    },
+    {
+      "trait_type": "Future Era",
+      "value": "Far Future"
+    },
+    {
+      "trait_type": "Sci-Fi Style",
+      "value": "Dystopian"
+    },
+    {
+      "trait_type": "Architecture",
+      "value": "Mega Structures"
+    },
+    {
+      "trait_type": "Technology Level",
+      "value": "Hyper-Advanced"
+    },
+    {
+      "trait_type": "Transport",
+      "value": "Maglev"
+    },
+    {
+      "trait_type": "Population Density",
+      "value": "Crowded"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "Dust Haze"
+    },
+    {
+      "trait_type": "Lighting",
+      "value": "Crimson Glow"
+    },
+    {
+      "trait_type": "Infrastructure",
+      "value": "Hyper-Dense"
+    },
+    {
+      "trait_type": "Sky Activity",
+      "value": "Active"
+    },
+    {
+      "trait_type": "Environment",
+      "value": "Desert"
+    },
+    {
+      "trait_type": "Power Source",
+      "value": "Fusion"
+    },
+    {
+      "trait_type": "City Condition",
+      "value": "Industrial"
+    },
+    {
+      "trait_type": "Civilization Type",
+      "value": "Human"
+    }
+  ]
+}

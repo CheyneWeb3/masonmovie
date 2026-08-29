@@ -1,0 +1,71 @@
+{
+  "name": "Electric Futures #6 — Xenon Spire",
+  "description": "An alien capital formed from impossible luminous towers spirals above a violet landscape, surrounded by levitating structures, organic transit routes and unknown machines suspended in the atmosphere. Part of Electric Futures — Sci-Fi Cityscapes, a collection exploring cities from possible and impossible futures.",
+  "image": "IMAGE_URL_HERE",
+  "attributes": [
+    {
+      "trait_type": "City Type",
+      "value": "Alien Capital"
+    },
+    {
+      "trait_type": "City Complexity",
+      "value": "Impossible"
+    },
+    {
+      "trait_type": "Future Era",
+      "value": "Post-Human"
+    },
+    {
+      "trait_type": "Sci-Fi Style",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Architecture",
+      "value": "Organic"
+    },
+    {
+      "trait_type": "Technology Level",
+      "value": "Post-Human"
+    },
+    {
+      "trait_type": "Transport",
+      "value": "Teleport Network"
+    },
+    {
+      "trait_type": "Population Density",
+      "value": "Dense"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "Neon Haze"
+    },
+    {
+      "trait_type": "Lighting",
+      "value": "Bioluminescent"
+    },
+    {
+      "trait_type": "Infrastructure",
+      "value": "Planetary"
+    },
+    {
+      "trait_type": "Sky Activity",
+      "value": "Heavy"
+    },
+    {
+      "trait_type": "Environment",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Power Source",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "City Condition",
+      "value": "Pristine"
+    },
+    {
+      "trait_type": "Civilization Type",
+      "value": "Alien"
+    }
+  ]
+}

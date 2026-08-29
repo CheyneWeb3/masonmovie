@@ -1,0 +1,71 @@
+{
+  "name": "Electric Futures #3 — Azure Floating District",
+  "description": "A luminous city floats above an endless alien ocean, with suspended towers, elevated gardens and glowing transport lanes linking artificial islands across the horizon. Part of Electric Futures — Sci-Fi Cityscapes, a collection exploring cities from possible and impossible futures.",
+  "image": "IMAGE_URL_HERE",
+  "attributes": [
+    {
+      "trait_type": "City Type",
+      "value": "Floating City"
+    },
+    {
+      "trait_type": "City Complexity",
+      "value": "Dense"
+    },
+    {
+      "trait_type": "Future Era",
+      "value": "Advanced Future"
+    },
+    {
+      "trait_type": "Sci-Fi Style",
+      "value": "Solarpunk"
+    },
+    {
+      "trait_type": "Architecture",
+      "value": "Modular"
+    },
+    {
+      "trait_type": "Technology Level",
+      "value": "Advanced"
+    },
+    {
+      "trait_type": "Transport",
+      "value": "Hover Traffic"
+    },
+    {
+      "trait_type": "Population Density",
+      "value": "Active"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "Clear"
+    },
+    {
+      "trait_type": "Lighting",
+      "value": "Bioluminescent"
+    },
+    {
+      "trait_type": "Infrastructure",
+      "value": "Layered"
+    },
+    {
+      "trait_type": "Sky Activity",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Environment",
+      "value": "Oceanic"
+    },
+    {
+      "trait_type": "Power Source",
+      "value": "Solar"
+    },
+    {
+      "trait_type": "City Condition",
+      "value": "Pristine"
+    },
+    {
+      "trait_type": "Civilization Type",
+      "value": "Mixed"
+    }
+  ]
+}

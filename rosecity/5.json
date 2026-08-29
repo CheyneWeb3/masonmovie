@@ -1,0 +1,71 @@
+{
+  "name": "Electric Futures #4 — Iron Moon Spaceport",
+  "description": "A sprawling industrial spaceport covers the surface of a distant moon, packed with launch towers, docking platforms, freight haulers and glowing habitat blocks beneath a giant ringed planet. Part of Electric Futures — Sci-Fi Cityscapes, a collection exploring cities from possible and impossible futures.",
+  "image": "IMAGE_URL_HERE",
+  "attributes": [
+    {
+      "trait_type": "City Type",
+      "value": "Lunar Spaceport"
+    },
+    {
+      "trait_type": "City Complexity",
+      "value": "Extreme"
+    },
+    {
+      "trait_type": "Future Era",
+      "value": "Far Future"
+    },
+    {
+      "trait_type": "Sci-Fi Style",
+      "value": "Industrial"
+    },
+    {
+      "trait_type": "Architecture",
+      "value": "Brutalist"
+    },
+    {
+      "trait_type": "Technology Level",
+      "value": "Hyper-Advanced"
+    },
+    {
+      "trait_type": "Transport",
+      "value": "Spacecraft"
+    },
+    {
+      "trait_type": "Population Density",
+      "value": "Active"
+    },
+    {
+      "trait_type": "Atmosphere",
+      "value": "Artificial"
+    },
+    {
+      "trait_type": "Lighting",
+      "value": "Holographic"
+    },
+    {
+      "trait_type": "Infrastructure",
+      "value": "Planetary"
+    },
+    {
+      "trait_type": "Sky Activity",
+      "value": "Heavy"
+    },
+    {
+      "trait_type": "Environment",
+      "value": "Frozen"
+    },
+    {
+      "trait_type": "Power Source",
+      "value": "Nuclear"
+    },
+    {
+      "trait_type": "City Condition",
+      "value": "Industrial"
+    },
+    {
+      "trait_type": "Civilization Type",
+      "value": "Human"
+    }
+  ]
+}
