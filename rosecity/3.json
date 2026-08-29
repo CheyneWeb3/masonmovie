@@ -1,7 +1,7 @@
 {
   "name": "Electric Futures #3 — Azure Floating District",
   "description": "A luminous city floats above an endless alien ocean, with suspended towers, elevated gardens and glowing transport lanes linking artificial islands across the horizon. Part of Electric Futures — Sci-Fi Cityscapes, a collection exploring cities from possible and impossible futures.",
-  "image": "IMAGE_URL_HERE",
+  "image": "https://raw.githubusercontent.com/CheyneWeb3/masonmovie/refs/heads/master/rosecity/3.webp",
   "attributes": [
     {
       "trait_type": "City Type",

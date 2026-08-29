@@ -1,7 +1,7 @@
 {
   "name": "Electric Futures #6 — Xenon Spire",
   "description": "An alien capital formed from impossible luminous towers spirals above a violet landscape, surrounded by levitating structures, organic transit routes and unknown machines suspended in the atmosphere. Part of Electric Futures — Sci-Fi Cityscapes, a collection exploring cities from possible and impossible futures.",
-  "image": "IMAGE_URL_HERE",
+  "image": "https://raw.githubusercontent.com/CheyneWeb3/masonmovie/refs/heads/master/rosecity/6.webp",
   "attributes": [
     {
       "trait_type": "City Type",

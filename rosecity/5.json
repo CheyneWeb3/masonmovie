@@ -1,7 +1,7 @@
 {
   "name": "Electric Futures #4 — Iron Moon Spaceport",
   "description": "A sprawling industrial spaceport covers the surface of a distant moon, packed with launch towers, docking platforms, freight haulers and glowing habitat blocks beneath a giant ringed planet. Part of Electric Futures — Sci-Fi Cityscapes, a collection exploring cities from possible and impossible futures.",
-  "image": "IMAGE_URL_HERE",
+  "image": "https://raw.githubusercontent.com/CheyneWeb3/masonmovie/refs/heads/master/rosecity/5.webp",
   "attributes": [
     {
       "trait_type": "City Type",

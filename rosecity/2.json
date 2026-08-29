@@ -1,7 +1,7 @@
 {
   "name": "Electric Futures #2 — Crimson Arcology",
   "description": "A colossal self-contained arcology rises above a scorched crimson plain, its illuminated towers connected by suspended transit lines and atmospheric bridges. Part of Electric Futures — Sci-Fi Cityscapes, a collection exploring cities from possible and impossible futures.",
-  "image": "IMAGE_URL_HERE",
+  "image": "https://raw.githubusercontent.com/CheyneWeb3/masonmovie/refs/heads/master/rosecity/2.webp",
   "attributes": [
     {
       "trait_type": "City Type",
